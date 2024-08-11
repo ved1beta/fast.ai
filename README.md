@@ -1,2 +1,2 @@
-# fast.ai
-model to recognize dog images 
+A 
+ hu bhai T_
